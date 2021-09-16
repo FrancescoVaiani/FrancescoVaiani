@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescovaiani&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=francescovaiani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=francescovaiani&theme=onedark&title=PullRequest,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **FrancescoVaiani/FrancescoVaiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

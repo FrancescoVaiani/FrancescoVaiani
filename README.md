@@ -1,9 +1,26 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescovaiani&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Hi there I'm Francesco, but you can call me Fra
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescovaiani&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="right" width="200" height="183" src="https://github.com/FrancescoVaiani/FrancescoVaiani/blob/main/assets/img/hello.jpg?raw=true">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=francescovaiani&theme=onedark&title=PullRequest,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+  - 🏢 Currently working at [SECO Mind](https://www.seco.com/it/seco-mind)
+  - 🌱 I’m currently learning Rust
+  - 💬 I like to talk about data structures
+  - ❤ I like:
+    - 🔥 Solving problems
+    - 🖥 Coding
+    - 👾 Indie Games
+    - 📽 Video making
+
+
+### 🚀Favourite Tech
+
+
+### 📈 Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=francescovaiani&show_icons=true&theme=onedark"></a>
+</p>
+
 
 <!--
 **FrancescoVaiani/FrancescoVaiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

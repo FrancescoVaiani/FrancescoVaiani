@@ -3,7 +3,7 @@
   <img align="right" width="200" height="183" src="https://github.com/FrancescoVaiani/FrancescoVaiani/blob/main/assets/img/hello.jpg?raw=true">
 
   - 🏢 Currently working at [SECO Mind](https://www.seco.com/it/seco-mind)
-  - 🌱 I’m currently learning Rust
+  - 🌱 I’m currently learning Rust, 日本語
   - 💬 I like to talk about data structures
   - ❤ I like:
     - 🔥 Solving problems

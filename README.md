@@ -17,10 +17,16 @@
 
 ### 📈 Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=francescovaiani&show_icons=true&theme=onedark"></a>
-</p>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=francescovaiani&show_icons=true&theme=onedark">
+    </a>
+  </p>
+</details>
 
+[![Francesco Vaiani's github activity graph](https://activity-graph.herokuapp.com/graph?username=FrancescoVaiani&bg_color=282C34&color=E2BD79&line=CE676E&point=8DB473)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **FrancescoVaiani/FrancescoVaiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

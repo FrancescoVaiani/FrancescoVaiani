@@ -78,4 +78,4 @@
   </p>
 </details>
 
-[![Francesco Vaiani's github activity graph](https://activity-graph.herokuapp.com/graph?username=FrancescoVaiani&bg_color=282C34&color=E2BD79&line=CE676E&point=8DB473)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Francesco Vaiani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FrancescoVaiani&bg_color=282C34&color=E2BD79&line=CE676E&point=8DB473)](https://github.com/ashutosh00710/github-readme-activity-graph)
